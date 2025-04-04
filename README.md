@@ -1,3 +1,1 @@
-#webpage design
-#Banners
-#Logo
+#webpage design, Banners, and Logo
